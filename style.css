@@ -1,0 +1,65 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+.main {
+  margin-top: 200px;
+  margin-left: 550px;
+  height: 600px;
+  padding: 60px;
+  font-family: Outfit;
+}
+.box {
+  background-color: hsl(216, 50%, 16%);
+  width: 250px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.img1 {
+  width: 250px;
+  border-radius: 10px;
+  height: 250px;
+}
+.h1 {
+  margin-top: 20px;
+  color: white;
+  font-weight: 800;
+}
+p {
+  color: hsl(217, 17%, 44%);
+  font-weight: 800;
+  font-size: 12px;
+}
+.box2 {
+  display: flex;
+  justify-content: space-between;
+}
+.b2 {
+  display: flex;
+}
+.inbox2 {
+  margin-left: 5px;
+  color: hsl(217, 17%, 44%);
+  font-weight: 700;
+}
+.box3 {
+  display: flex;
+  border-top: 1px solid hsl(215, 32%, 27%);
+  margin-top: 20px;
+  padding-top: 10px;
+  font-weight: 700;
+}
+.img3 {
+  width: 30px;
+  height: 30px;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 15px;
+}
+.inbox3 {
+  color: hsl(217, 17%, 44%);
+  margin-left: 20px;
+  margin-top: 5px;
+  font-weight: 700;
+}
+span {
+  color: white;
+}
